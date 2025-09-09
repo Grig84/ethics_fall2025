@@ -7,21 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-This page is meant for you to showcase your case study, podcasts, and blog posts reflecting on our readings. You will need to update the content in each section and submit your site to Moodle (see calendar). Once all sections are updated, revise this paragraph so it summarizes the purpose of your site for new visitors. This can include how to navigate it, what each section contains, and what someone should understand about your work just by reading this introduction.
+This site is designed to showcase my work throughout my college carrer. The Case Study page contains a case study on the ethics of software design I created. The Podcasts page contains a series of podcasts I created to discuss different case studies similar to the one I created, and the blog posts are my personal reflections on the case studies. These were created as part of the Computing Ethics and Society course I took at St. Olaf college, and reflect my learning throughout the course. The CV page contains an up to date version of my CV for more information about me and my experiences.
 
 
 About Me
 ---
-My name is [First Last]. I’m a [Computer Science] student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my [B.S] in [majors]. You can also talk about internships you've had [if applicable]
+My name is Will Dirkswager. I’m a Computer Science and Physics student in the [Mathematics, Statistics, and Computer Science](https://wp.stolaf.edu/mscs/) and [Physics](https://wp.stolaf.edu/physics/) departments at St. Olaf College. I'm earning my B.S in Physics and Computer Science, with an Engineering Studies concentration. I partake in the St. Olaf Percussion Ensemble, and played in the St. Olaf Philharmonia Orchestra. 
 
 Research 
 ---
-What topics are you currently interested in researching, or have already done in your major studies.
-What topics are you interested in learning about regarding ethics.
+Most recently, I spent the summer at Kettering University in Flint, MI participating in an NSF REU on Autonomous Vehicles. My particular research was on developing a Privacy-Preserving Decentralized Federated Learning CNN based Misbehavior Detection technique for Vehicle to Everything (V2X) networks. In essense, I combined a novel way to train an AI model with an up-and-coming neural network design to eliminate the reliance on a central server and privacy concerns of existing V2X Misbehavior Detection techniques without sacrificing performance of the model.
 
 Personal Life
 ---
-Update to give a little background on you and your interests.
-
-
-For more info on editing this page: configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+In my free time, I enjoy playing drums, working on cars, taking pictures, birding, and going on hikes. I also enjoy learining everything there is to know about cars and computers, and I love to tinker with both, to improve my understanding of how they work, and because it is fun to have a device you had a hand in making how you want it.
