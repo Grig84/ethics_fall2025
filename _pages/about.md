@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[Name] Computes Ethics" #update to your name
+title: "Will Dirkswager Computes Ethics" #update to your name
 author_profile: true
 redirect_from: 
   - /about/
