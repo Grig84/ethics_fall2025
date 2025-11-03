@@ -16,27 +16,27 @@ There are six different levels of autonomous vehicles(AVs), ranging from absolut
 
 #### Level 0: Fully Human
 
-[More info on Level 0](/Level0.md)
+[More info on Level 0](Level0/)
 
 #### Level 1: A Little Help
 
-[More info on Level 1](/Level1.md)
+[More info on Level 1](Level1/)
 
 #### Level 2: 
 
-[More info on Level 2](/Level2.md)
+[More info on Level 2](Level2/)
 
 #### Level 3:
 
-[More info on Level 3](/Level3.md)
+[More info on Level 3](Level3/)
 
 #### Level 4:
 
-[More info on Level 4](/Level4.md)
+[More info on Level 4](Level4/)
 
 #### Level 5:
 
-[More info on Level 5](/Level5.md)
+[More info on Level 5](Level5/)
 
 <!---
 ## Overview
