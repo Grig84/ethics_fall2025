@@ -38,7 +38,7 @@ There are six different levels of autonomous vehicles(AVs), ranging from absolut
 
 [More info on Level 5](Level5/)
 
-[Activity](Activity/)
+[Go to activity page](activity/)
 
 <!---
 ## Overview
