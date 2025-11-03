@@ -22,21 +22,23 @@ There are six different levels of autonomous vehicles(AVs), ranging from absolut
 
 [More info on Level 1](Level1/)
 
-#### Level 2: 
+#### Level 2: We're Getting There
 
 [More info on Level 2](Level2/)
 
-#### Level 3:
+#### Level 3: On the Highway
 
 [More info on Level 3](Level3/)
 
-#### Level 4:
+#### Level 4: Supervision Required
 
 [More info on Level 4](Level4/)
 
-#### Level 5:
+#### Level 5: Me? Drive?
 
 [More info on Level 5](Level5/)
+
+[Activity](Activity/)
 
 <!---
 ## Overview
