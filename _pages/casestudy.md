@@ -38,6 +38,12 @@ There are six different levels of autonomous vehicles(AVs), ranging from absolut
 
 [More info on Level 5](/_casestudy/Level5.md/)
 
+#### Current legislation
+Summary of general legislation, and what most places are doing
+Explanation of ideal further legislation
+
+[Detailed Legislation](/_casestudy/Legislation.md/)
+
 
 <!---
 ## Overview
