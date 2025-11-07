@@ -36,7 +36,7 @@ There are six different levels of autonomous vehicles(AVs), ranging from absolut
 
 #### Level 5: Me? Drive?
 
-[More info on Level 5](/ethics_fal2025/_casestudy/Level5.md/)
+[More info on Level 5](Level5/)
 
 #### Current legislation
 Summary of general legislation, and what most places are doing
