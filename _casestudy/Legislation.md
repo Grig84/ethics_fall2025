@@ -1,5 +1,5 @@
 ---
-sitemap: true
+sidebar: true
 title: "Legislation"
 author_profile: true
 ---
