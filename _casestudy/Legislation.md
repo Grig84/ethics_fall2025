@@ -1,5 +1,4 @@
 ---
-permalink: /casestudy/Legislation/
 title: "Legislation"
 layout: default
 ---
