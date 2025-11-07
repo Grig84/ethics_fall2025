@@ -1,4 +1,5 @@
 ---
+permalink: /Legislation/
 title: "Legislation"
 author_profile: true
 ---
