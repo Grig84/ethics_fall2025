@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Level 0"
 author_profile: true
 ---

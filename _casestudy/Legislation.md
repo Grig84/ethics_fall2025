@@ -1,7 +1,6 @@
 ---
-sidebar: true
 title: "Legislation"
-author_profile: true
+layout: "default"
 ---
 ## Current Legislation
 
