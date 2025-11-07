@@ -1,5 +1,5 @@
 ---
-sitemap: false
+sitemap: true
 title: "Legislation"
 author_profile: true
 ---
