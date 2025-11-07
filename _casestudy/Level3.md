@@ -1,6 +1,6 @@
 ---
 title: "Level 3"
-author_profile : true
+author_profile: true
 ---
 ## Level 3
 

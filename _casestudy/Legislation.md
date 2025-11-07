@@ -1,6 +1,6 @@
 ---
 title: "Legislation"
-author_profile : true
+author_profile: true
 ---
 ## Current Legislation
 
