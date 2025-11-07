@@ -1,6 +1,7 @@
 ---
 title: "Legislation"
 layout: "default"
+sidebar: true
 ---
 ## Current Legislation
 
