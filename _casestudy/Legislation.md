@@ -1,5 +1,5 @@
 ---
-permalink: /Legislation/
+sitemap: false
 title: "Legislation"
 author_profile: true
 ---

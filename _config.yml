@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Will Dirkswager" #update
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left hand sidebar"
+  pronouns         : "He/Him" # example: "she/her"  
+  bio              : "Physics and Computer Science student at St. Olaf college. In my free time, I like to play music, build things, and work on cars." #
   employer         : "St. Olaf College"
   uri              : # URL
   email            : #"[username]@stolaf.edu" #update
