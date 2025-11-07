@@ -1,5 +1,5 @@
 ---
-permalink: /_casestudy/
+permalink: /casestudy/
 title: "Case Study"
 author_profile: true
 ---
@@ -42,7 +42,7 @@ There are six different levels of autonomous vehicles(AVs), ranging from absolut
 Summary of general legislation, and what most places are doing
 Explanation of ideal further legislation
 
-[Detailed Legislation](/_casestudy/activity/)
+[Detailed Legislation](activity/)
 
 
 <!---
