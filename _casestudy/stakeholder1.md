@@ -1,5 +1,5 @@
 ---
 title: "Stakeholder1"
-layout: default
+author_profile : true
 ---
 Content for Stakeholder 1.

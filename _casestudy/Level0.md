@@ -1,6 +1,6 @@
 ---
 title: "Level 0"
-layout: default
+author_profile : true
 ---
 ## Level 0
 

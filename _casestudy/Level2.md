@@ -1,6 +1,6 @@
 ---
 title: "Level 2"
-layout: default
+author_profile : true
 ---
 ## Level 2
 

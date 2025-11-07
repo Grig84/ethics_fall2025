@@ -1,6 +1,6 @@
 ---
 title: "Level 4"
-layout: default
+author_profile : true
 ---
 ## Level 4
 

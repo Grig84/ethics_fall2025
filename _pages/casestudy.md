@@ -16,23 +16,23 @@ There are six different levels of autonomous vehicles(AVs), ranging from absolut
 
 #### Level 0: Fully Human
 
-[More info on Level 0](/ethics_fal2025/_casestudy/Level0/)
+[More info on Level 0](Level0/)
 
 #### Level 1: A Little Help
 
-[More info on Level 1](/ethics_fal2025/_casestudy/Level1.md/)
+[More info on Level 1](Level1.md/)
 
 #### Level 2: We're Getting There
 
-[More info on Level 2](/ethics_fal2025/_casestudy/Level2.md/)
+[More info on Level 2](Level2.md/)
 
 #### Level 3: On the Highway
 
-[More info on Level 3](/ethics_fal2025/_casestudy/Level3.md/)
+[More info on Level 3](Level3.md/)
 
 #### Level 4: Supervision Required
 
-[More info on Level 4](/ethics_fal2025/_casestudy/Level4.md/)
+[More info on Level 4](Level4.md/)
 
 #### Level 5: Me? Drive?
 
@@ -42,7 +42,7 @@ There are six different levels of autonomous vehicles(AVs), ranging from absolut
 Summary of general legislation, and what most places are doing
 Explanation of ideal further legislation
 
-[Detailed Legislation](activity/)
+[Detailed Legislation](Legislation/)
 
 
 <!---
