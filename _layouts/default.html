@@ -2,6 +2,7 @@
 layout: compress
 ---
 
+
 {% include base_path %}
 
 <!doctype html>
@@ -9,6 +10,7 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
   </head>
 
   <body>
@@ -28,4 +30,16 @@ layout: compress
     {% include scripts.html %}
 
   </body>
+  <script>
+  var config = {
+      startOnLoad:true,
+      theme: 'forest',
+      flowchart:{
+              useMaxWidth:false,
+              htmlLabels:true
+          }
+  };
+  mermaid.initialize(config);
+  window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+  </script>
 </html>
