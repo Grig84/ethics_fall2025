@@ -8,6 +8,15 @@ Explaining the Levels of Autonomous Vehicles
 
 
 ### VISUAL
+```mermaid
+graph LR
+A((0)) -- 100 --> B((3));
+A -- 100 --> C((4));
+B -- 1 --> C;
+B -- 100 --> D((2));
+C -- 100 --> D;
+D -- 200 --> E((1));
+```
 Here will be a flow chart of the different autonomous levels, with markers denoting where most automakers are, and a shift in color/shape to denote that the computer is the primary thing in charge as opposed to the driver.
 
 
