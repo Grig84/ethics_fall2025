@@ -1,8 +1,10 @@
 ---
-title: "Level 5"
-author_profile: true
+title: "Level 1"
+layout: single
+collection: casestudy
+permalink: /casestudy/Level1/
 ---
-## Level 5
+## Level 1
 
 #### What Features Are Present
 List of present features

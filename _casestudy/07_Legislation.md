@@ -1,7 +1,8 @@
 ---
 title: "Legislation"
-layout: "default"
-sidebar: true
+layout: single
+collection: casestudy
+permalink: /casestudy/Legislation/
 ---
 ## Current Legislation
 

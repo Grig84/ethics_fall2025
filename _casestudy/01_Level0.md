@@ -1,7 +1,8 @@
 ---
-layout: "default"
 title: "Level 0"
-author_profile: true
+layout: single
+collection: casestudy
+permalink: /casestudy/Level0/
 ---
 ## Level 0
 

@@ -1,6 +1,8 @@
 ---
 title: "Level 4"
-author_profile: true
+layout: single
+collection: casestudy
+permalink: /casestudy/Level4/
 ---
 ## Level 4
 
