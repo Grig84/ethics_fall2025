@@ -7,53 +7,56 @@ nav_order: 0
 collection: casestudy
 ---
 
-Explaining the Levels of Autonomous Vehicles
-
-
-### VISUAL
+# Explaining the Levels of Autonomous Vehicles
+## VISUAL
+```mermaid
+graph LR
+0(0:Fully Human) --> 1(1:A Little Help);
+1 --> 2(2:We're Getting There);
+2 --> 3(3:Supervised Autonomous);
+3 -- CONTROL CHANGE --> 4(4:Autonomous-ish);
+4 --> 5(5:Autonomous);
+```
 Here will be a flow chart of the different autonomous levels, with markers denoting where most automakers are, and a shift in color/shape to denote that the computer is the primary thing in charge as opposed to the driver.
 
 
-### Levels? What are those?
-There are six different levels of autonomous vehicles(AVs), ranging from absolutely no driver assistance at all, to fully autonomous vehicles, that don't even require a steering wheel.
+## Levels? What are those?
+There are six different levels of autonomous vehicles(AVs), ranging from level zero, where you are fully in control of your car, to level 5, where you have no control at all. Each level has different benefits and safety concerns
 
-#### Level 0: Fully Human
 
+HERE WILL BE AN IMAGE DENOTING LEVEL 0
+### Level 0: Fully Human
+At level 0, there is very little assistance. The car might provide warning or alerts, but you are in full control of the vehicle. Level 0 vehicles include vehicles without cruise control or any driver aids, making it rare to see a Level 0 vehicle on the road today.
 [More info on Level 0](Level0/)
 
-#### Level 1: A Little Help
-
+HERE WILL BE AN IMAGE DENOTING LEVEL 1
+### Level 1: A Little Help
+Level 1 is where we start to see the first implementations of driver aid facilities, and covers the most basic of applications. This is where most cars currently are at, and includes features such as standard cruise control, adaptive cruise control, lane keep assist, and emergency braking. The key restriction of this level is that the vehicle can control either acceleration and braking OR steering, but not both at the same time.
 [More info on Level 1](Level1/)
 
-#### Level 2: We're Getting There
-
+HERE WILL BE AN IMAGE DENOTING LEVEL 2
+### Level 2: We're Getting There
+We start to see combinations of steering AND acceleration/braking control when we get to the Level 2. Here, you will see lane keep assist and adaptive cruise control combine to create roadtrip modes. The vehicle will assist in your driving, but you are still in charge, and it is just helping guide you along the way. 
 [More info on Level 2](Level2/)
 
-#### Level 3: On the Highway
-
+HERE WILL BE AN IMAGE DENOTING LEVEL 3
+### Level 3: Supervised Autonomous
+Once we get to level 3, we switch the script around - now, in specific situations, the car can take control and you get bumped to a supervisory role. You are in charge of taking control of the vehicle when the system cannot keep up, but normal operating procedure is that the vehicle is in control. This can be seen in very recent cars, but is still rare to find.
 [More info on Level 3](Level3/)
 
-#### Level 4: Supervision Required
-
+HERE WILL BE AN IMAGE DENOTING LEVEL 4
+### Level 4: Autonomous-ish
+In Level 4, the driverless system is in full control, and you don't have to pay attention. The vehicle will do everything, and most cars of this caliber have manual control as an afterthought, or add-on option. The main restriction to Level 4 vehicles in that they only can operate fully autonomously in certain areas. This makes them great as regional taxis and commuter cars, but still cannot drive themselves everywhere.
 [More info on Level 4](Level4/)
 
-#### Level 5: Me? Drive?
-
+HERE WILL BE AN IMAGE DENOTING LEVEL 5
+### Level 5: Autonomous
+Level 5 is the end goal. These vehicles are fully autonomous, 100% of the time. They don't need a human for anything, and can serve as a seamless tool for transportation. This is ideal as the car of the future, and is what people usually think of when they talk about a self-driving car. 
 [More info on Level 5](Level5/)
 
-#### Current legislation
-Summary of general legislation, and what most places are doing
-Explanation of ideal further legislation
+## Current legislation
+In the US, out of the 50 states and Washington DC, only 19 states permit autonomous vehicle use, and only 34 states have any legislation pertaining to Autonomous Vehicles at all. For the states that permit autonomous vehicles, most require the autonomous vehicles to have a 'minimal risk condition' when the autonomous system fails. This means that the vehicles are required to have some way to safely get out of harms' way, and stop, when the system fails. There is little regulation on what specific levels these states are allowing, but generally Levels 4 and 5 are the systems that this legislation aims to control.
 
-[Detailed Legislation](Legislation/)
+In Europe, they have comprehensive frameworks to regulate the development and usage of Autonomous Vehicles. Engineering teams are required to adhere to proper safety and performance standards, and legislation also regulates testing of the vehicles before production.
 
-
-<!---
-## Overview
-For your semester project, you and a partner will create an original case study
-modeled after those we read in class. Your case study must present an ethical issue in computing and can focus on any topic of your choosing. Some possible ideas include algorithmic bias and discrimination, surveillance technologies, facial recognition, data privacy, misinformation and deepfakes, generative AI and authorship, the climate impact of computing, digital labor and gig work, cybersecurity and hacking, accessibility and inclusion in technology, militarization of technology, AI companionship and social robotics, and cryptocurrency, though you are encouraged to select a topic not found on this list if it aligns with your interests and research.
-
-## Requirements
-
-Your case study will take the form of a website (built with Jekyll and GitHub Pages) that presents an ethical issue in computing. You will identify and research an ethical issue in computing or AI, write accessible content tailored for three different audiences, include an interactive activity that helps readers learn and reflect on the issue, and develop a set of discussion questions to spark engagement and deeper thinking. Your project must be engaging, well-researched, cite sources appropriately, and be designed for multiple audiences.
--->
+[Click here to learn more about the current legislation](Legislation/)
