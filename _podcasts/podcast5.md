@@ -10,9 +10,9 @@ In this episode of *Dark Mode*, we discuss memes and how we percieve them. We co
 
 ### Meme Examples:
 We discussed the following four memes.
-1. <br/><img src='/images/Clarkson.png'>
+1. ['/images/Clarkson.png']!
 
-2. <br/><img src='/images/WhoWins.png'>
+2. ['/images/WhoWins.png']!
 
-3. <br/><img src='/images/YouUse.png'>
+3. ['/images/YouUse.png']!
 
