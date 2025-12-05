@@ -9,10 +9,13 @@ audio: ethics_fall2025/files/WillNick5.mp3
 In this episode of *Dark Mode*, we discuss memes and how we percieve them. We cover how they change based off of your personal experience, and the immense difficulty one has keeping up with their evolution.
 
 ### Meme Examples:
-We discussed the following four memes.
-1. ['/images/Clarkson.png']!
+We discussed the following three memes, in order listed here.
+1. Jeremy Clarkson "Oh no! Anyway":
+[['/images/Clarkson.png']]!
 
-2. ['/images/WhoWins.png']!
+2. "Who would win?":
+[['/images/WhoWins.png']]!
 
-3. ['/images/YouUse.png']!
+3. "I do not think that means what you think it means":
+[['/images/YouUse.png']]!
 
