@@ -11,7 +11,7 @@ In this episode of *Dark Mode*, we discuss memes and how we percieve them. We co
 ### Meme Examples:
 We discussed the following three memes, in order listed here.
 1. Jeremy Clarkson "Oh no! Anyway":
-![Text]('/images/Clarkson.png')
+![Text]('../images/Clarkson.png')
 
 2. "Who would win?":
 !('/images/WhoWins.png')
