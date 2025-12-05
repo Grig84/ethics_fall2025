@@ -14,7 +14,7 @@ We discussed the following three memes, in order listed here.
 <br/><img src='images/Clarkson.jpg'>
 
 2. "Who would win?":
-<br/><img src='/images/WhoWins.jpg'>
+<br/><img src='images/WhoWins.jpg'>
 
 3. "I do not think that means what you think it means":
-<br/><img src='/images/YouUse.jpg'>
+<br/><img src='images/YouUse.jpg'>
