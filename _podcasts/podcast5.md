@@ -18,3 +18,6 @@ We discussed the following three memes, in order listed here.
 
 3. "I do not think that means what you think it means":
 <br/><img src='images/YouUse.jpg'>
+
+4. "I am claustraphobic":
+<br/><img src='images/Sponge.jpg'>
