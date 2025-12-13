@@ -14,14 +14,14 @@ graph LR
 0(0:Fully Human) --> 1(1:A Little Help);
 1 --> 2(2:We're Getting There);
 2 --> 3(3:Supervised Autonomous);
-3 -- CONTROL CHANGE --> 4(4:Autonomous-ish);
+3 -- DRIVERLESS --> 4(4:Autonomous-ish);
 4 --> 5(5:Autonomous);
 ```
-Here will be a flow chart of the different autonomous levels, with markers denoting where most automakers are, and a shift in color/shape to denote that the computer is the primary thing in charge as opposed to the driver.
+^^^Here will be a flow chart of the different autonomous levels, with markers denoting where most automakers are, and a shift in color/shape to denote that the computer is the primary thing in charge as opposed to the driver.
 
 
 ## Levels? What are those?
-There are six different levels of autonomous vehicles(AVs), ranging from level zero, where you are fully in control of your car, to level 5, where you have no control at all. Each level has different benefits and safety concerns
+There are six different levels of autonomous vehicles(AVs), ranging from level zero, where you are fully in control of your car, to level 5, where you have no control at all. Each level has many different elements you need to take into account when deciding on a car. For lawmakers and those interested in the legislations, see our final section. For those who are intent on purchasing a new vehicle, look at the examples, safety, and security concerns of each level detailed on their sub-page. 
 
 
 HERE WILL BE AN IMAGE DENOTING LEVEL 0
@@ -36,7 +36,7 @@ Level 1 is where we start to see the first implementations of driver aid facilit
 
 HERE WILL BE AN IMAGE DENOTING LEVEL 2
 ### Level 2: We're Getting There
-We start to see combinations of steering AND acceleration/braking control when we get to the Level 2. Here, you will see lane keep assist and adaptive cruise control combine to create roadtrip modes. The vehicle will assist in your driving, but you are still in charge, and it is just helping guide you along the way. 
+We start to see combinations of steering AND acceleration/braking control when we get to the Level 2. Here, you will see lane keep assist and adaptive cruise control combine to create roadtrip modes, which can keep you in your lane and maintain your speed. The vehicle will assist in your driving, but you are still in charge, and it is just helping guide you along the way. 
 [More info on Level 2](Level2/)
 
 HERE WILL BE AN IMAGE DENOTING LEVEL 3
@@ -46,12 +46,12 @@ Once we get to level 3, we switch the script around - now, in specific situation
 
 HERE WILL BE AN IMAGE DENOTING LEVEL 4
 ### Level 4: Autonomous-ish
-In Level 4, the driverless system is in full control, and you don't have to pay attention. The vehicle will do everything, and most cars of this caliber have manual control as an afterthought, or add-on option. The main restriction to Level 4 vehicles in that they only can operate fully autonomously in certain areas. This makes them great as regional taxis and commuter cars, but still cannot drive themselves everywhere.
+In Level 4, the driverless system is in full control, and you don't have to pay attention. The vehicle will do everything, and most cars of this caliber have manual control as an afterthought, or add-on option. The main restriction to Level 4 vehicles in that they only can operate fully autonomously in certain areas. This makes them great as regional taxis and commuter cars, but still cannot drive themselves everywhere. We've recently started seeing examples of this, but they still are few and far between.
 [More info on Level 4](Level4/)
 
 HERE WILL BE AN IMAGE DENOTING LEVEL 5
 ### Level 5: Autonomous
-Level 5 is the end goal. These vehicles are fully autonomous, 100% of the time. They don't need a human for anything, and can serve as a seamless tool for transportation. This is ideal as the car of the future, and is what people usually think of when they talk about a self-driving car. 
+Level 5 is the end goal. These vehicles are fully autonomous, 100% of the time. They don't need a human for anything, and can serve as a seamless tool for transportation. This is ideal as the car of the future, and is what people usually think of when they talk about a self-driving car. We don't currently have anything at this level, and most likely won't for a while still.
 [More info on Level 5](Level5/)
 
 ## Current legislation
