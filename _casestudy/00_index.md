@@ -54,7 +54,7 @@ Once we get to level 3, we switch the script around - now, in specific situation
 (Anastasia, 2025)
 
 ### Level 4: Autonomous-ish
-In Level 4, the driverless system is in full control, and you don't have to pay attention. The vehicle will do everything, and most cars of this caliber have manual control as an afterthought, or add-on option. The main restriction to Level 4 vehicles in that they only can operate fully autonomously in certain areas. This makes them great as regional taxis and commuter cars, but still cannot drive themselves everywhere. We've recently started seeing examples of this, but they still are few and far between.
+In Level 4, the driverless system is in full control, and you don't have to pay attention. The vehicle will do everything, and most cars of this caliber have manual control as an afterthought, or add-on option. The main restriction to Level 4 vehicles is that they only can operate fully autonomously in certain areas. This makes them great as regional taxis and commuter cars, but still cannot drive themselves everywhere. We've recently started seeing examples of this, but they still are few and far between.
 [More info on Level 4](Level4/)
 
 <br/><img src='images/Level5.jpg'>
@@ -70,3 +70,4 @@ In the US, out of the 50 states and Washington DC, only 19 states permit autonom
 In Europe, they have comprehensive frameworks to regulate the development and usage of Autonomous Vehicles. Engineering teams are required to adhere to proper safety and performance standards, and legislation also regulates testing of the vehicles before production.
 
 [Click here to learn more about the current legislation](Legislation/)
+
