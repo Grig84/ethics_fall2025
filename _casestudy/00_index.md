@@ -14,7 +14,8 @@ graph LR
 0(0:Fully Human) --> 1(1:A Little Help);
 1 --> 2(2:We're Getting There);
 2 --> 3(3:Supervised Autonomous);
-3 -- DRIVERLESS --> 4(4:Autonomous-ish);
+3 --> 6[\No Humans Required<br/>Past This Point\];
+6 --> 4(4:Autonomous-ish);
 4 --> 5(5:Autonomous);
 ```
 ^^^Here will be a flow chart of the different autonomous levels, with markers denoting where most automakers are, and a shift in color/shape to denote that the computer is the primary thing in charge as opposed to the driver.
@@ -55,7 +56,7 @@ Level 5 is the end goal. These vehicles are fully autonomous, 100% of the time. 
 [More info on Level 5](Level5/)
 
 ## Current legislation
-In the US, out of the 50 states and Washington DC, only 19 states permit autonomous vehicle use, and only 34 states have any legislation pertaining to Autonomous Vehicles at all. For the states that permit autonomous vehicles, most require the autonomous vehicles to have a 'minimal risk condition' when the autonomous system fails. This means that the vehicles are required to have some way to safely get out of harms' way, and stop, when the system fails. There is little regulation on what specific levels these states are allowing, but generally Levels 4 and 5 are the systems that this legislation aims to control.
+In the US, out of the 50 states and Washington DC, only 19 states permit autonomous vehicle use, and only 34 states have any legislation pertaining to Autonomous Vehicles at all(Autonomous Vehicle Statutes and Regulations Across the 50 States, 2024). For the states that permit autonomous vehicles, most require the autonomous vehicles to have a 'minimal risk condition' when the autonomous system fails. This means that the vehicles are required to have some way to safely get out of harms' way, and stop, when the system fails. There is little regulation on what specific levels these states are allowing, but generally Levels 4 and 5 are the systems that this legislation aims to control.
 
 In Europe, they have comprehensive frameworks to regulate the development and usage of Autonomous Vehicles. Engineering teams are required to adhere to proper safety and performance standards, and legislation also regulates testing of the vehicles before production.
 

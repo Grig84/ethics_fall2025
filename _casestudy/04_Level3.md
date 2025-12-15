@@ -18,4 +18,4 @@ At this level, the different techniques used by different companies has a big im
 ### Safety
 This level brings with it even better safety features and awareness on the road than other levels, but there still is the risk of something unexpected happening, and if the driver is not ready to react, there could be issues. This level does still require the driver to be paying attention, and while it is generally better at handling the mishaps, it also means that the drivers are more likely to become complacent and not be ready to react when the car calls for it. The responsibility for safety falls on the manufacturer to test and improve their capabilities, so some implementations could be much safer than others.
 
-[HOME](casestudy/)
+[HOME](../)

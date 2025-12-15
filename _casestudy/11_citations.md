@@ -16,8 +16,10 @@ permalink: /casestudy/citations/
 - Baran, G. (2025, May). Tesla Model 3 VCSEC Vulnerability Allows Attackers to Execute Arbitrary Code. Cyber Security News; CybersecurityNews. https://cybersecuritynews.com/tesla-model-3-vcsec-vulnerability/
 - Ford. (2025). Ford BlueCruise Hands-Free Driving | Maps & Features | Ford.com. Ford Motor Company. https://www.ford.com/technology/bluecruise/
 - Autonomous Vehicle Statutes and Regulations Across the 50 States. (2024). Bakerdonelson.com. https://www.bakerdonelson.com/autonomous-vehicle-statutes-and-regulations-across-the-50-states
-- 
+- TRATON – Advanced legal framework in the EU: Driverless through Europe. (2022, October 5). TRATON. https://traton.com/en/newsroom/stories/legal-framework-in-the-eu-driverless-through-europe.html
+- Update on Automotive Regulations in Europe. (2025). Www.hoganlovells.com. https://www.hoganlovells.com/en/publications/update-on-automotive-regulations-in-europe
 
 ### Images
 - 
 
+[HOME](../)

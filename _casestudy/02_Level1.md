@@ -18,4 +18,4 @@ Here, we start to see some holes in the autonomous systems - because the compute
 ### Safety
 Whilst this level does bring with it some safety protection, such as emergency braking, the onset of cruise control makes it more likely for drivers to get innatentive behind the wheel. Lane keep assist also both helps and hurts the safety of the driver - it helps you not veer out of your lane, but it makes you less aware and focused on your driving.
 
-[HOME](casestudy/)
+[HOME](../)

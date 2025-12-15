@@ -18,4 +18,4 @@ These vehicles have no vulnerabilities with respect to the network, since very f
 ### Safety
 Because of the lack of driver aids, these vehicles cannot make up for bad driving, and offer an unrestricted driving experience. The driver is in full control, for good and bad, and every mistake they make is operated on by the car.
 
-[HOME](casestudy/)
+[HOME](../)

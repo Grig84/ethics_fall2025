@@ -18,4 +18,4 @@ Since this level removes the reliance on a human, there is less of a 'killswitch
 ### Safety
 At this level, there is rarely a steering wheel or control system to take over for the vehicle. If the autonomous system works well, it will be able to handle any obstacle thrown at it, and there should be no reason for the passenger to ever need control. That being said, ensuring autonomous vehicles have enough testing is vital to ensure this performance, which requires significantly more legislation than we have currently. For more information, see the [Legislation page](Legislation/).
 
-[HOME](casestudy/)
+[HOME](../)
