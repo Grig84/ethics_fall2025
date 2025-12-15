@@ -18,4 +18,4 @@ There are countless security concerns with level 5 vehicles, as their environmen
 ### Safety
 Whilst every safety concern is still theorhetical, the large variety of environments these vehicles will see means that unless they are perfect, there will be a situation where they aren't perfectly capable, and it is up for the companies to make sure that their vehicles operate in a safe manner when the situation gets out of hand and they encounter something unexpected.
 
-[HOME](index/)
+[HOME](/)
