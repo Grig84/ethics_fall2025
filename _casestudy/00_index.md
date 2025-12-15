@@ -1,20 +1,19 @@
 ---
 permalink: /casestudy/
-title: "Case Study"
+title: "Case Study: Explaining the Levels of Autonomous Vehicles"
 author_profile: true
 layout: single
 nav_order: 0
 collection: casestudy
 ---
 
-# Explaining the Levels of Autonomous Vehicles
 ## VISUAL
 ```mermaid
 graph LR
 0(0:Fully Human) --> 1(1:A Little Help);
 1 --> 2(2:We're Getting There);
 2 --> 3(3:Supervised Autonomous);
-3 -- |No Humans Required Past This Point| --> 4(4:Autonomous-ish);
+3 -- No Humans Required Past This Point --> 4(4:Autonomous-ish);
 4 --> 5(5:Autonomous);
 ```
 
