@@ -36,7 +36,7 @@ At level 0, there is very little assistance. The car might provide warning or al
 Level 1 is where we start to see the first implementations of driver aid facilities, and covers the most basic of applications. This is where most cars currently are at, and includes features such as standard cruise control, adaptive cruise control, lane keep assist, and emergency braking. The key restriction of this level is that the vehicle can control either acceleration and braking OR steering, but not both at the same time.
 [More info on Level 1](Level1/)
 
-<br/><img src='images/Level2.jpg'>
+<br/><img src='images/Level1.jpg'>
 (Anastasia, 2025)
 
 ### Level 2: We're Getting There
