@@ -11,10 +11,10 @@ collection: casestudy
 ## VISUAL
 ```mermaid
 graph LR
-0(0:Fully<br/>Human) --> 1(1:A Little<br/>Help);
-1 --> 2(2:We're<br/>Getting There);
-2 --> 3(3:Supervised<br/>Autonomous);
-3 --> No Humans Required<br/>Past This Point --> 4(4:Autonomous-ish);
+0(0:Fully Human) --> 1(1:A Little Help);
+1 --> 2(2:We're Getting There);
+2 --> 3(3:Supervised Autonomous);
+3 --> |No Humans Required<br/>Past This Point| --> 4(4:Autonomous-ish);
 4 --> 5(5:Autonomous);
 ```
 ^^^Here will be a flow chart of the different autonomous levels, with markers denoting where most automakers are, and a shift in color/shape to denote that the computer is the primary thing in charge as opposed to the driver.
