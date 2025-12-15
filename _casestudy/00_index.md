@@ -14,7 +14,7 @@ graph LR
 0(0:Fully Human) --> 1(1:A Little Help);
 1 --> 2(2:We're Getting There);
 2 --> 3(3:Supervised Autonomous);
-3 --> No Human Required --> 4(4:Autonomous-ish);
+3 -- |No Humans Required Past This Point| --> 4(4:Autonomous-ish);
 4 --> 5(5:Autonomous);
 ```
 
