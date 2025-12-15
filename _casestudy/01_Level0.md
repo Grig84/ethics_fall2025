@@ -4,7 +4,6 @@ layout: single
 collection: casestudy
 permalink: /casestudy/Level0/
 ---
-## Level 0
 
 SAME IMAGE AS BEFORE DENOTING LEVEL 0
 ### What Features Are Present
