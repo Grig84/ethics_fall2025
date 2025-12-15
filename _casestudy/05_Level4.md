@@ -5,7 +5,7 @@ collection: casestudy
 permalink: /casestudy/Level4/
 ---
 
-<br/><img src='images/Level4.jpg'>
+<br/><img src='../images/Level4.jpg'>
 (Anastasia, 2025)
 
 ### What Features Are Present
