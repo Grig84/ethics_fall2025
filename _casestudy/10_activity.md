@@ -12,7 +12,7 @@ For each of the following scenarios, thin about the options and come up with a c
 ## Scenario 1
 ```mermaid
 graph LR
-0((Autonomous Car<br/>With a 20y/o adult)) --> 1(3 y/o Child);
+0((Autonomous Car With a 20y/o adult)) --> 1(3 y/o Child);
 0 --> 2(Tree) --> 3(Death);
 ```
 
@@ -23,4 +23,4 @@ graph LR
 3. Who should we blame when an autonomous vehicle, in the intermediate levels (2,3,4), has an accident? Is it the driver's fault, or the manufacturer's?
 4. Do you think development on autonomous vehicle technology should be paused to allow for regulation to catch up? 
 5. What could the process of getting an autonomous vehicle certified for road use look like?
-6. 
+6. Who should be in charge of regulating the autonomous vehicles? Experts in the field? Ethical experts? Politicians?
