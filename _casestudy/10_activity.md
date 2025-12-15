@@ -12,8 +12,9 @@ For each of the following scenarios, thin about the options and come up with a c
 ## Scenario 1
 ```mermaid
 graph LR
-0((Autonomous Car With a 20y/o adult)) --> 1(3 y/o Child);
-0 --> 2(Tree) --> 3(Death);
+0((Autonomous Car<br/>With a 20y/o adult)) --> 1(3 y/o Child);
+0 --> 2(Tree);
+2 --> 3(Death);
 ```
 
 
