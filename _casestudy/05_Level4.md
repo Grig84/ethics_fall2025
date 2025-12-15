@@ -5,7 +5,9 @@ collection: casestudy
 permalink: /casestudy/Level4/
 ---
 
-SAME IMAGE AS BEFORE DENOTING LEVEL 4
+<br/><img src='images/Level4.jpg'>
+(Anastasia, 2025)
+
 ### What Features Are Present
 Level 4 marks the shift from human focused control to machice control. Level 4 vehicles can fully drive themselves without any human supervision, abeit in a specific range. These vehicles are perfect for in-city taxi services, where there is a set radius in which they are able to fully control themselves. Generally, these vehicles do not include any form of control for the passengers - they simply are expected to sit back and let the vehicle operate. There is no requirement for the human to be paying attention.
 

@@ -5,7 +5,9 @@ collection: casestudy
 permalink: /casestudy/Level3/
 ---
 
-SAME IMAGE AS BEFORE DENOTING LEVEL 3
+<br/><img src='images/Level3.jpg'>
+(Anastasia, 2025)
+
 ### What Features Are Present
 Level 3 is the start of the vehciles that we consider autonomous. This level encorporates the vehicles that can operate autonomously under optimal driving conditions, but require human supervision to account for any unexpected scenarios. These vehicles can drive you down the highway, hands free, changing lanes and passing other vehicles autonomously. The catch is that they still require you to keep your eyes on the road, and be ready to take over. Many manufacturers require highways to be mapped out in order to allow their system to function properly, so only work on some highways. Other companies have level 3 technology that can navigate even off the highway, in some cases navigating your entire commute fully autonomously.
 

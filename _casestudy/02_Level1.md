@@ -5,7 +5,9 @@ collection: casestudy
 permalink: /casestudy/Level1/
 ---
 
-SAME IMAGE AS BEFORE DENOTING LEVEL 1
+<br/><img src='images/Level1.jpg'>
+(Anastasia, 2025)
+
 ### What Features Are Present
 Level 1 encompasses features found on most cars on the road today. They have cruise control, which includes adaptive cruise control(ACC), emergency braking, and the same warnings we saw present in level 0. Cars that fall under the category of level 1 have features that automatically control the acceleration and decceleration, or the steering, but only one of the two at a time. This could also include lane keep asist (when not used at the same time as cruise control), or park assist, where it controls the wheel as you give it gas and brake. This also includes stability and traction control systems.
 

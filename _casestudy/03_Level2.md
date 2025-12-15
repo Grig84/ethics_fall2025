@@ -5,7 +5,9 @@ collection: casestudy
 permalink: /casestudy/Level2/
 ---
 
-SAME IMAGE AS BEFORE DENOTING LEVEL 2
+<br/><img src='images/Level2.jpg'>
+(Anastasia, 2025)
+
 ### What Features Are Present
 At level 2, we see the combination of the steering assist and pedal assists into features such as fully self parking and highway mode(adaptive cruise control and lane keep assist). The highway assist feature will maintain your speed and your lane, but you are still required to have your hands on the wheel, and interrupt whenever the system cannot cope with the evironment. Whilst the car cannot fully drive itself, it can provide significantly more assistance to the human driver. The highway mode is the most common example of this, and is the feature that most automakers have started rolling out recently.
 

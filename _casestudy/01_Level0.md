@@ -5,7 +5,9 @@ collection: casestudy
 permalink: /casestudy/Level0/
 ---
 
-SAME IMAGE AS BEFORE DENOTING LEVEL 0
+<br/><img src='images/Level0.jpg'>
+(Anastasia, 2025)
+
 ### What Features Are Present
 Level 0 contains barely any features - it just encompasses passive technologies, like blind spot monitoring, or the beep that lets you know you are out of your lane. This also would include messages about following distance or reccomendations to brake, but only when they are not acted upon by the car. The vehicle has no control of what it actually is doing, and can only provide alerts. 
 

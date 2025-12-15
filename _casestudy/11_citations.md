@@ -20,6 +20,7 @@ permalink: /casestudy/citations/
 - Update on Automotive Regulations in Europe. (2025). Www.hoganlovells.com. https://www.hoganlovells.com/en/publications/update-on-automotive-regulations-in-europe
 
 ### Images
-- NHTSA. (2021). Automated Vehicles for Safety | NHTSA. Www.nhtsa.gov; National Highway Traffic Safety Administration. https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety
+- Anastasia. (2025, July 16). SAE Levels of Autonomous Driving: From L2 to L5 with System Architecture & IC Demands. Ersa Electronics. https://www.ersaelectronics.com/blog/autonomous-driving-levels
 
+‌
 [HOME](../)

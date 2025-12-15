@@ -5,7 +5,9 @@ collection: casestudy
 permalink: /casestudy/Level5/
 ---
 
-SAME IMAGE AS BEFORE DENOTING LEVEL 5
+<br/><img src='images/Level5.jpg'>
+(Anastasia, 2025)
+
 ### What Features Are Present
 Level 5 marks the pinnacle of our scale, and of autonomous vehicles. These cars can fully drive themselves, 100% of the time. There are no restrictions to areas or specific roads, and can be trusted to get places safely. Even in bad conditions, such as snow or roadwork, they are expected to behave correctly and safely, to get the passengers to their destination. These vehicles are very similar to level 4 vehicles, but since they can go everywhere, they are more likely to be used as personal or family vehicles. 
 
